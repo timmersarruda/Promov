@@ -16,29 +16,42 @@ This document provides a brief overview of the software, highlighting its main f
 
 ## Funcionalidades Principais / Main Features:
 
-1. Cadastro de Usuários
+1. Cadastro de Usuários / User registration
 Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).
-2. Criação de Eventos
+Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).
+3. Criação de Eventos / Event Creation
 Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.
-3. Venda de Ingressos
+Event organizers can create and customize details for their events, including name, date, time, and description.
+5. Venda de Ingressos / Ticket Sales
 Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.
-4. Gerenciamento de Convidados
+Online ticket sales functionality, allowing attendees to purchase tickets conveniently.
+7. Gerenciamento de Convidados / Guest Management
 Os organizadores podem gerenciar listas de convidados, enviar convites e rastrear as confirmações de presença.
-5. Seleção de Locais
+Organizers can manage guest lists, send invitations, and track RSVPs.
+9. Seleção de Locais / Location Selection
 Os locadores de espaços podem listar seus locais disponíveis, permitindo que os organizadores de eventos escolham o local adequado para seus eventos.
-6. Pesquisa de Eventos
+Venue rentals can list their available venues, allowing event organizers to choose the right location for their events.
+11. Pesquisa de Eventos / Event Search
 Os usuários podem pesquisar e explorar eventos com base em categorias, datas e localizações.
-7. Promoção de Eventos
+Users can search and explore events based on categories, dates and locations.
+13. Promoção de Eventos / Event Promotion
 Os promotores de eventos podem usar o sistema para promover seus eventos, alcançando um público mais amplo, conectando pessoas e grupos com compatibilidade de interesses.
+Event promoters can use the system to promote their events, reaching a wider audience by connecting people and groups with compatible interests.
 
-# Público-Alvo
+# Público-Alvo / Target Audience
 
 ## O Sistema de Gestão de Eventos atende a três principais categorias de usuários:
+The Event Management System serves three main categories of users:
 
 **Usuários Normais:** Pessoas que desejam participar de eventos, comprar ingressos e encontrar informações sobre eventos locais.
+**Normal Users:** People who want to attend events, buy tickets, and find information about local events.
 **Promotores:** Organizadores de eventos que desejam usar a plataforma para criar, promover e gerenciar seus eventos.
+**Promoters:** Event organizers who want to use the platform to create, promote and manage their events.
 **Locadores de Espaços:** Proprietários de locais que desejam alugar seus espaços para eventos.
+**Space Renters:** Venue owners who wish to rent their spaces for events.
 
-# Objetivos
-Unir pessoas que desejam festejar, com produtores de eventos e/ou articuladores culturais, além de conectar pessoas dispostas a exibir espaços para a locação e realização dos eventos. 
-Rede de relacionamento, com um intuito de reunir grupos sociais com fins em comum, fazendo da plataforma Promov um espaço livre a todos, com diversas categorias de eventos disponíveis
+# Objetivos / Goals
+Unir pessoas que desejam festejar, com produtores de eventos e/ou articuladores culturais, além de conectar pessoas dispostas a exibir espaços para a locação e realização dos eventos.
+Unite people who want to celebrate, with event producers and/or cultural organizers, in addition to connecting people willing to display spaces for renting and holding events.
+Rede de relacionamento, com um intuito de reunir grupos sociais com fins em comum, fazendo da plataforma Promov um espaço livre a todos, com diversas categorias de eventos disponíveis.
+Relationship network, with the aim of bringing together social groups with common purposes, making the Promov platform a free space for everyone, with different categories of events available.
