@@ -45,8 +45,10 @@ The Event Management System serves three main categories of users:
 
 **Usuários Normais:** Pessoas que desejam participar de eventos, comprar ingressos e encontrar informações sobre eventos locais.   
 **Normal Users:** People who want to attend events, buy tickets, and find information about local events.  
+
 **Promotores:** Organizadores de eventos que desejam usar a plataforma para criar, promover e gerenciar seus eventos.    
 **Promoters:** Event organizers who want to use the platform to create, promote and manage their events.  
+
 **Locadores de Espaços:** Proprietários de locais que desejam alugar seus espaços para eventos.  
 **Space Renters:** Venue owners who wish to rent their spaces for events.  
 
