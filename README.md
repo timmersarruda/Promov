@@ -17,10 +17,10 @@ This document provides a brief overview of the software, highlighting its main f
 ## Funcionalidades Principais / Main Features:
 
 1. Cadastro de Usuários / User registration
-Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).
-Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).
-3. Criação de Eventos / Event Creation
-Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.
+Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).  
+Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).  
+3. Criação de Eventos / Event Creation  
+Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.  
 Event organizers can create and customize details for their events, including name, date, time, and description.  
 5. Venda de Ingressos / Ticket Sales  
 Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.  
