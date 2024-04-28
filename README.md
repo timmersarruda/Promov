@@ -1,32 +1,33 @@
 # Promov
- U+1F1E7 U+1F1F7 O conceito por trás desse sistema é proporcionar uma plataforma centralizada que melhora a eficiência e a eficácia do gerenciamento de eventos criando conexões. 
+ 🇧🇷 O conceito por trás desse sistema é proporcionar uma plataforma centralizada que melhora a eficiência e a eficácia do gerenciamento de eventos criando conexões. 
  
  The concept behind this system is to provide a centralized platform that improves the efficiency and effectiveness of event management by creating connections.
 
 # **Documentação / Documentation:**
 
 # **Visão Geral / Overview:**
-O Sistema de Gestão de Eventos é um software projetado para auxiliar na criação, organização e gestão eficiente de eventos de qualquer natureza. Com funcionalidades intuitivas e de fácil uso, o sistema é adaptado para atender às necessidades específicas de diferentes categorias de usuários, incluindo organizadores de eventos, promotores e locadores de espaços.
+🇧🇷 O Sistema de Gestão de Eventos é um software projetado para auxiliar na criação, organização e gestão eficiente de eventos de qualquer natureza. Com funcionalidades intuitivas e de fácil uso, o sistema é adaptado para atender às necessidades específicas de diferentes categorias de usuários, incluindo organizadores de eventos, promotores e locadores de espaços.
 
 The Event Management System is software designed to assist in the creation, organization and efficient management of events of any nature. With intuitive and easy-to-use features, the system is adapted to meet the specific needs of different categories of users, including event organizers, promoters and space rentals.
 
-Este documento fornece uma breve visão geral do software, destacando suas principais funcionalidades e objetivos.
+🇧🇷 Este documento fornece uma breve visão geral do software, destacando suas principais funcionalidades e objetivos.
 
 This document provides a brief overview of the software, highlighting its main functionalities and objectives.
 
 ## Funcionalidades Principais / Main Features:
 
 1. Cadastro de Usuários / User registration
-Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).  
+🇧🇷 Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).  
 Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).  
+
 3. Criação de Eventos / Event Creation  
-Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.  
+🇧🇷 Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.  
 Event organizers can create and customize details for their events, including name, date, time, and description.  
 5. Venda de Ingressos / Ticket Sales  
-Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.  
+🇧🇷 Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.  
 Online ticket sales functionality, allowing attendees to purchase tickets conveniently.  
 7. Gerenciamento de Convidados / Guest Management  
-Os organizadores podem gerenciar listas de convidados, enviar convites e rastrear as confirmações de presença.  
+🇧🇷 Os organizadores podem gerenciar listas de convidados, enviar convites e rastrear as confirmações de presença.  
 Organizers can manage guest lists, send invitations, and track RSVPs.  
 9. Seleção de Locais / Location Selection  
 Os locadores de espaços podem listar seus locais disponíveis, permitindo que os organizadores de eventos escolham o local adequado para seus eventos.  
