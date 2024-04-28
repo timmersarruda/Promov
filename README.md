@@ -1,5 +1,5 @@
 # Promov
- O conceito por trás desse sistema é proporcionar uma plataforma centralizada que melhora a eficiência e a eficácia do gerenciamento de eventos criando conexões. 
+ U+1F1E7 U+1F1F7 O conceito por trás desse sistema é proporcionar uma plataforma centralizada que melhora a eficiência e a eficácia do gerenciamento de eventos criando conexões. 
  
  The concept behind this system is to provide a centralized platform that improves the efficiency and effectiveness of event management by creating connections.
 
