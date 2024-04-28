@@ -54,6 +54,7 @@ The Event Management System serves three main categories of users:
 
 # Objetivos / Goals  
 Unir pessoas que desejam festejar, com produtores de eventos e/ou articuladores culturais, além de conectar pessoas dispostas a exibir espaços para a locação e realização dos eventos.  
-Unite people who want to celebrate, with event producers and/or cultural organizers, in addition to connecting people willing to display spaces for renting and holding events.  
 Rede de relacionamento, com um intuito de reunir grupos sociais com fins em comum, fazendo da plataforma Promov um espaço livre a todos, com diversas categorias de eventos disponíveis.  
+
+Unite people who want to celebrate, with event producers and/or cultural organizers, in addition to connecting people willing to display spaces for renting and holding events.  
 Relationship network, with the aim of bringing together social groups with common purposes, making the Promov platform a free space for everyone, with different categories of events available.  
