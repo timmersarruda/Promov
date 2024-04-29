@@ -17,32 +17,32 @@
 ## Funcionalidades Principais / Main Features:
 
 1. Cadastro de Usuários / User registration
-🇧🇷 Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).  
-🇺🇸 Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).  
+   🇧🇷 Os usuários podem se cadastrar no sistema, especificando seu perfil (usuário normal, promotor ou locador) e finalidade desejada (participar de eventos, organizar eventos ou alugar locais).  
+   🇺🇸 Users can register in the system, specifying their profile (normal user, promoter or landlord) and desired purpose (participating in events, organizing events or renting venues).  
 
-2. Criação de Eventos / Event Creation  
-🇧🇷 Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.  
-🇺🇸 Event organizers can create and customize details for their events, including name, date, time, and description.
+3. Criação de Eventos / Event Creation  
+  🇧🇷 Os organizadores de eventos podem criar e personalizar detalhes de seus eventos, incluindo nome, data, horário e descrição.  
+  🇺🇸 Event organizers can create and customize details for their events, including name, date, time, and description.
 
-3. Venda de Ingressos / Ticket Sales  
-🇧🇷 Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.  
-🇺🇸 Online ticket sales functionality, allowing attendees to purchase tickets conveniently.
+4. Venda de Ingressos / Ticket Sales  
+ 🇧🇷 Funcionalidade para venda de ingressos online, permitindo que os participantes comprem ingressos de forma conveniente.  
+ 🇺🇸 Online ticket sales functionality, allowing attendees to purchase tickets conveniently.
  
-4. Gerenciamento de Convidados / Guest Management  
-🇧🇷 Os organizadores podem gerenciar listas de convidados, enviar convites e rastrear as confirmações de presença.  
-🇺🇸 Organizers can manage guest lists, send invitations, and track RSVPs.
+5. Gerenciamento de Convidados / Guest Management  
+ 🇧🇷 Os organizadores podem gerenciar listas de convidados, enviar convites e rastrear as confirmações de presença.  
+ 🇺🇸 Organizers can manage guest lists, send invitations, and track RSVPs.
   
-5. Seleção de Locais / Location Selection  
-🇧🇷 Os locadores de espaços podem listar seus locais disponíveis, permitindo que os organizadores de eventos escolham o local adequado para seus eventos.  
-🇺🇸 Venue rentals can list their available venues, allowing event organizers to choose the right location for their events.
+6. Seleção de Locais / Location Selection  
+ 🇧🇷 Os locadores de espaços podem listar seus locais disponíveis, permitindo que os organizadores de eventos escolham o local adequado para seus eventos.  
+ 🇺🇸 Venue rentals can list their available venues, allowing event organizers to choose the right location for their events.
   
-6. Pesquisa de Eventos / Event Search  
-🇧🇷 Os usuários podem pesquisar e explorar eventos com base em categorias, datas e localizações.  
-🇺🇸 Users can search and explore events based on categories, dates and locations.
+7. Pesquisa de Eventos / Event Search  
+ 🇧🇷 Os usuários podem pesquisar e explorar eventos com base em categorias, datas e localizações.  
+ 🇺🇸 Users can search and explore events based on categories, dates and locations.
   
-7. Promoção de Eventos / Event Promotion  
-🇧🇷 Os promotores de eventos podem usar o sistema para promover seus eventos, alcançando um público mais amplo, conectando pessoas e grupos com compatibilidade de interesses.  
-🇺🇸 Event promoters can use the system to promote their events, reaching a wider audience by connecting people and groups with compatible interests.  
+8. Promoção de Eventos / Event Promotion  
+ 🇧🇷 Os promotores de eventos podem usar o sistema para promover seus eventos, alcançando um público mais amplo, conectando pessoas e grupos com compatibilidade de interesses.  
+ 🇺🇸 Event promoters can use the system to promote their events, reaching a wider audience by connecting people and groups with compatible interests.  
 
 # Público-Alvo / Target Audience
 
